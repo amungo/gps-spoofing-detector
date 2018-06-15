@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Amungo GPS Spoofing Detector</string>
+    <string name="s_start_gps">Start GPS</string>
+    <string name="s_stop_gps">Stop GPS</string>
+    <string name="s_gps_state">GPS</string>
+    <string name="s_gps_off">GPS lost</string>
+    <string name="s_gps_on">GPS found!</string>
+    <string name="s_gps_denied">GPS access denied</string>
+    <string name="s_test_add_anomaly">Add anomaly</string>
+    <string name="title_activity_maps">Anomaly Map</string>
+    <string name="s_show_anomaly_map">Show anomaly map</string>
+    <string name="s_tw_latitude">Latitude: %1$f</string>
+    <string name="s_tw_longitude">Longitude: %1$f</string>
+    <string name="s_tw_speed_hw">Your speed (HW method): %1$.2f</string>
+    <string name="s_tw_speed_soft">Your speed (SW method): %1$.2f</string>
+    <string name="s_no_speed">Your speed: N/A</string>
+</resources>

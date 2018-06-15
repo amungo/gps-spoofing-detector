@@ -1,0 +1,12 @@
+
+gps_spoofing_detector/\.idea/
+
+gps_spoofing_detector/google-services\.json
+
+gps_spoofing_detector/app/google-services\.json
+
+gps_spoofing_detector/app/src/debug/res/values/google_maps_api\.xml
+
+gps_spoofing_detector/app/src/release/res/values/google_maps_api\.xml
+
+gps_spoofing_detector/app/release/
